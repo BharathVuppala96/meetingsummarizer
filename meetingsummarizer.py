@@ -60,7 +60,7 @@ def summarize_transcript(transcript):
         return None
 
 # Streamlit UI
-st.title("Meeting Summarizer")
+st.title(" Bharath Meeting Summarizer")
 st.write("Upload an audio recording to get a summary")
 
 # File uploader
